@@ -22,5 +22,5 @@ Exciting industry with a lot of opportunities.
 
 ----
 
-Example of Code Snippet: ----
+Example of Code Snippet:
 `git commit -m "Commit message" README.md`
